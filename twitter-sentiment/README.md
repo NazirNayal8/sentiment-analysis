@@ -1,4 +1,4 @@
-#Twitter Sentiment Analysis
+# Twitter Sentiment Analysis
 
 The data set used for this analysis is downloaded from kaggle using this [link](https://www.kaggle.com/kazanova/sentiment140).
 
